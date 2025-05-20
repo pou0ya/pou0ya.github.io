@@ -90,7 +90,7 @@ work:
     company_logo: ''
     date_start: 2024-05-01
     date_end: ''
-    summary: |4-
+    summary: |-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -101,7 +101,7 @@ work:
     company_logo: ''
     date_start: 2024-12-01
     date_end: '2025-01-01'
-    summary: |3-
+    summary: |-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -112,7 +112,7 @@ work:
     company_logo: ''
     date_start: 2023-12-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
