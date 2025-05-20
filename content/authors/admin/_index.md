@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Pouya Hosseini
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pouya
+last_name: Hosseini
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,87 +20,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student & Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Yazd University
+    url: https://yazd.ac.ir/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hosseini.pouya7279@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - #icon: brands/x
+    #url: https://twitter.com/GetResearchDev
+  - #icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pou0ya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/pou0ya
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=fGCmJ-kAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-3923-5121
 
 interests:
+  - 5G/6G Wireless Communication
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Federated Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - #area: PhD Artificial Intelligence
+    #institution: Stanford University
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+      #Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE #conferences with the contributions being published in 2 Springer journals.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: MSc Telecommunications Engineering
+    institution: Yazd University
+    date_start: 2023-09-01
+    date_end: 2026-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 16.5/20
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electrical Engineering
+    institution: Yasouj University
+    date_start: 2018-09-01
+    date_end: 2023-09-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 16/20
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Yazd University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-01
+    date_end: ''
+    summary: |4-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Teacher Assistant
+    company_name: Yazd University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: '2025-01-01'
+    summary: |3-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Content Creator
+    company_name: Danesh Academy
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Engineering Intern
+    company_name: Sadia Telecommunication Cable Company
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-06-01
+    date_end: 2022-08-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -109,45 +131,117 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+Technical skills:
+  - name: Programming Languages and Libraries
     items:
+      - name: MATLAB
+        description: ''
+        percent: 100
+        #icon: code-bracket
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        #icon: code-bracket
+      - name: C
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        #icon: code-bracket
+      - name: LaTeX
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        #icon: code-bracket
+  - name: Tools
+    #color: '#eeac02'
+    #color_border: '#f0bf23'
+    items:
+      - name: ADS
+        description: ''
+        percent: 60
+        #icon: person-simple-walk
+      - name: Ansys HFSS
+        description: ''
+        percent: 100
+        #icon: cat
+      - name: Proteus
         description: ''
         percent: 80
-        icon: camera
-
+        #icon: camera
+      - name: Symatic Manager (PLC Siemens)
+        description: ''
+        percent: 80
+        #icon: camera
+      - name: NS-3
+        description: ''
+        percent: 80
+        #icon: camera
+      - name: Cisco Packet Tracer
+        description: ''
+        percent: 80
+        #icon: camera
+      - name: GNS3
+        description: ''
+        percent: 80
+        #icon: camera
+      - name: Wireshark
+        description: ''
+        percent: 80
+        #icon: camera
+  - name: Others
+    items:
+      - name: Machine Learning
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Deep Learning
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Federated Learning
+        description: ''
+        percent: 60
+        #icon: code-bracket
+      - name: Reinforcement Learning
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Pythorch
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Tensorflow
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: CompTIA Network+
+        description: ''
+        percent: 60
+        #icon: code-bracket
+      - name: CCNA
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Linux
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Microsoft Office
+        description: ''
+        percent: 100
+        #icon: code-bracket
+      - name: Research Skills
+        description: ''
+        percent: 60
+        #icon: code-bracket
+      - name: Teamwork
+        description: ''
+        percent: 100
+        #icon: code-bracket
 languages:
   - name: English
+    percent: 90
+  - name: Persian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
