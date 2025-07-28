@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Pouya Hosseini
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pouya
+last_name: Hosseini
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Telecommunications systems student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Yazd University
+    url: https://yazd.ac.ir/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hosseini.pouya7279@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/pou0ya
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/pou0ya
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pou0ya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/pou0ya
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=fGCmJ-kAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-3923-5121
 
 interests:
+  - 5G/6G Wireless Communications
+  - Internert of Medical Things
+  - Federated Learning
+  - Optimization
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
