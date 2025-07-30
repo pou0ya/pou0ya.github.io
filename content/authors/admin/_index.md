@@ -87,7 +87,7 @@ education:
       - Communication Systems I, Digital Communications
       - Digital Signal Processing, Filter and Circuit Synthesis
       - Image Processing, Communication Circuits
-      - Antenna I, Antenna
+      - Antenna I, Antenna II
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -188,4 +188,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pouya Hosseini is an Electrical Engineering graduate with a Bachelor's degree, specializing in Signal Processing, Image Processing, and Machine Learning. His undergraduate thesis focused on developing a novel texture descriptor based on an improved Orthogonal Difference Local Binary Pattern, conducted under the supervision of Dr. Sadegh Fadaei.
+
+He is currently pursuing his Master's degree at Yazd University, Yazd, Iran, under the supervision of Prof. Jamshid Abouei. His current research interests include integrated sensing and communication (ISAC), integrated sensing, communication, and computing (ISCC), the Internet of Medical Things (IoMT), federated learning (FL), and optimization theory.
+
+In addition to his academic work, he is the content creator and editor of the Danesh Academy YouTube channel, where he produces educational videos focused on Electrical Engineering, with a particular emphasis on wireless communication.
