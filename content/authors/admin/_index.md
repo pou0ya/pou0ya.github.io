@@ -68,7 +68,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-09-31
     summary: |
-      GPA: 16/20
+      GPA: 3/4
 
       Courses included:
       - Advanced Mathematical Engineering, Communication Networks
@@ -80,13 +80,13 @@ education:
     date_start: 2018-09-01
     date_end: 2023-09-31
     summary: |
-      GPA: 16/20
+      GPA: 3/4
       
       Courses included:
       - Fields and Waves, Microwave
       - Communication Systems I, Digital Communications
       - Digital Signal Processing, Filter and Circuit Synthesis
-      - Image Processing, Communication Circuits
+    #  - Image Processing, Communication Circuits
     #  - Antenna I, Antenna II
 work:
   - position: Director of Cloud Infrastructure
