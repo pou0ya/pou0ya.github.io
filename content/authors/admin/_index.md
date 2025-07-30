@@ -73,7 +73,8 @@ education:
       Courses included:
       - Advanced Mathematical Engineering, Communication Networks
       - Wireless Networks, Information Theory
-
+      - Digital Video Processing, Wireless Communication Systmes
+      - Random Process, Advanced Communication Theory
   - area: BSc Telecommunications Engineering
     institution: Yasouj University
     date_start: 2018-09-01
@@ -85,7 +86,8 @@ education:
       - Fields and Waves, Microwave
       - Communication Systems I, Digital Communications
       - Digital Signal Processing, Filter and Circuit Synthesis
-
+      - Image Processing, Communication Circuits
+      - Antenna I, Antenna
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
