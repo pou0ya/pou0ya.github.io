@@ -54,37 +54,40 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - #area: PhD Communication Systems
+    #institution: Stanford University
+    #date_start: 2016-01-01
+    #date_end: 2020-12-31
+    #summary: |
+      #Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: MEng Communication Systems
+    institution: Yazd University
+    date_start: 2023-09-01
+    date_end: 2026-09-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 16/20
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Advanced Mathematical Engineering, Communication Networks
+      - Wireless Networks, Information Theory
+      - Digital Video Processing, Wireless Communication Systmes
+      - Random Process, Advanced Communication Theory
+  - area: BSc Telecommunications Engineering
+    institution: Yasouj University
+    date_start: 2018-09-01
+    date_end: 2023-09-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 16/20
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Fields and Waves, Microwave
+      - Communication Systems I, Digital Communications
+      - Digital Signal Processing, Filter and Circuit Synthesis
+      - Image Processing, Communication Circuits
+      - Antenna I, Antenna II
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -145,9 +148,9 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Persian
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
     percent: 25
 
@@ -185,4 +188,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pouya Hosseini is an Electrical Engineering graduate with a Bachelor's degree, specializing in Signal Processing, Image Processing, and Machine Learning. His undergraduate thesis focused on developing a novel texture descriptor based on an improved Orthogonal Difference Local Binary Pattern, conducted under the supervision of Dr. Sadegh Fadaei.
+
+He is currently pursuing his Master's degree at Yazd University, Yazd, Iran, under the supervision of Prof. Jamshid Abouei. His current research interests include integrated sensing and communication (ISAC), integrated sensing, communication, and computing (ISCC), the Internet of Medical Things (IoMT), federated learning (FL), and optimization theory.
+
+In addition to his academic work, he is the content creator and editor of the Danesh Academy YouTube channel, where he produces educational videos focused on Electrical Engineering, with a particular emphasis on wireless communication.
