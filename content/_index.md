@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/uploads/Pouya_Hosseini_CV.pdf
       headings:
         about: ''
         education: ''
