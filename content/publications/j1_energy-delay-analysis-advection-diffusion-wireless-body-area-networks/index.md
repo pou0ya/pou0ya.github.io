@@ -17,8 +17,7 @@ publication:
   pages: "1-20"
 peer_reviewed: true
 open_access: true
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat."
+abstract: "Molecular communication (MC) emerges as an encouraging concept in wireless body area nanonetworks (WBAN²), which utilizes molecules as information carriers for communication between nanomachines. In this paper, we aim to define an electrical model of a molecular-based nano-transmitter to analyze the effect of the remained transmitted molecules in a fluidic medium. To this end, we will address an advection-diffusion equation with a non-zero initial condition to analyze the residual molecules’ influence the medium. Moreover, considering the energy consumption limitations of nanomachines, we will employ the derived electrical model to further investigate how nanomachines consume the energy in presence of residual molecules. Following this, to enhance the energy consumption of the nano-transmitters, the settle-time method will be proposed to tackle the negative impact of the residual molecules on energy consumption. Nevertheless, since the proposed method increases the delay at nano-transmitters, the energy-delay trade-off relation at nano-transmitters will be investigated. Then, by introducing an interruption period and a control coefficient, we control the trade-off between the energy consumption and the created delay. Finally, by considering insulin molecules as messenger molecules in our simulations, we will demonstrate that implementing short interruption periods significantly enhances energy consumption, while introducing a small amount of delay to the system. Particularly, the energy consumption is reduced by 15% and the latency is increased by 2.2 ms when 1 ms interrupt period is used for 20 mol of insulin molecule."
 tags:
 - Wireless body area networks
 - Molecular communication
@@ -29,5 +28,3 @@ links:
 projects: []
 slides: ""
 ---
-
-Add the publication's full text or supplementary notes here.

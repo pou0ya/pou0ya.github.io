@@ -17,8 +17,7 @@ publication:
   issue: ""
 peer_reviewed: true
 open_access: false
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat."
+abstract: "This paper investigates energy-efficient federated learning (FL) in multiple-input multiple-output (MIMO) edge-enabled Internet of Things (IoT) networks, where user equipments (UEs) are enabled with simultaneous wireless information and power transfer (SWIPT) capabilities. To jointly optimize communication and computation resources, a hierarchical optimization framework is proposed to minimize the total effective energy consumption per global FL round, while satisfying latency, power, frequency, power-splitting, and local accuracy constraints. By exploiting the time-scale separation between wireless resource allocation and learning accuracy adaptation, the resulting non-convex problem is decomposed into a short-term convexified subproblem for communication and computation resource optimization, solved via successive convex approximation (SCA), and a long-term subproblem for local accuracy updates, addressed using coordinate descent (CD). The proposed algorithm ensures convergence to a stationary solution with polynomial complexity, achieving significant computational savings compared to exhaustive search. Simulation results verify that the proposed framework achieves substantial energy consumption reduction and faster convergence compared with the benchmark schemes. Furthermore, results demonstrate that increasing the base station (BS) antenna array or the energy harvesting efficiency enhances the network sustainability and scalability of FL for energy-constrained IoT devices."
 tags:
 - Federated learning
 - IoT
@@ -31,5 +30,3 @@ links:
 projects: []
 slides: ""
 ---
-
-Add the publication's full text or supplementary notes here.

@@ -18,8 +18,7 @@ publication:
   pages: "9298-9318"
 peer_reviewed: true
 open_access: false
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat."
+abstract: "This work explores an energy-efficient integrated sensing, communication, and computing (ISCC) system for privacy-preserving wireless federated learning (FL) at edge devices in 6G and beyond wireless networks. We propose an efficient user selection method based on local computing time concerning high-power processing to enhance user participation and employing reconfigurable intelligent surface (RIS) to improve channel reliability in the wireless FL system. To maximize the energy efficiency (EE), we leverage a nonlinear optimization problem as a mixed-integer nonlinear program (MINLP) with constraints on power, computing frequency, bandwidth, and target sensing metric based on beamforming design matrices. The MINLP is transformed into a tractable nonlinear program, approximated via linear problems using Taylor expansion and solved with an iterative algorithm based on successive linear programming (SLP). Simulation results demonstrate that the proposed wireless FL scheme outperforms the benchmarks. Moreover, the proposed non-orthogonal multiple access (NOMA)-enabled system significantly increases energy efficiency."
 tags:
 - Integrated sensing and communication
 - RIS
@@ -31,5 +30,3 @@ links:
 projects: []
 slides: ""
 ---
-
-Add the publication's full text or supplementary notes here.
