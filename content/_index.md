@@ -38,9 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a researcher working at the forefront of 6G wireless systems. My work spans **Integrated Sensing, Communication, and Computing (ISCC)** with efficient beamforming and resource allocation, energy‑reliable **Internet of Medical Things (IoMT)** networks, **semantic‑aware communication** for resource‑constrained environments, and **AI‑driven solutions** (DRL and federated learning) to make future networks resilient, scalable, and intelligent.
 
         Please reach out to collaborate 😃
     design:
